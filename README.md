@@ -1,7 +1,7 @@
 # quest-app
 Quest app is a forum like communication application. 
 Users can create an account and able to login with their account.
-Users have their own home screen and can see their posts.
+Users have their individual home screen and they can list, post, delete and update their posts.
 
 A. Features
   1. User login/register
